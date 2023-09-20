@@ -6,8 +6,8 @@
 ### Results saved at ./data/results
 
 
-# TO:DO
-## 1) Inferred data validations:
+## TO:DO
+## 1) Inference data validation:
 ### a) generated data should exist in source files.
 ### b) check data types (like Premium should be int or float. 
 ### In case Premium is string it should be able to change dtype to float or int.
